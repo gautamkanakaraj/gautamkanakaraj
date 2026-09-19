@@ -1,6 +1,6 @@
 # Hi, I'm Gautam Kanakaraj 👋
 
-B.Tech CSE student building backend systems, APIs, and real-time data pipelines.
+CSE student building backend systems, APIs, and real-time data pipelines.
 
 📫 gautam.kanakarajv@gmail.com | [GitHub](https://github.com/gautamkanakaraj)
 
